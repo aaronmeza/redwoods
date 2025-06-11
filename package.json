@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "start": "next start",
-    "build": "esbuild src/worker.ts --bundle --outfile=dist/worker.js",
+    "build": "next build",
     "dev":   "wrangler dev"
   },
   "dependencies": {
