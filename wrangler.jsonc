@@ -2,7 +2,7 @@
   "$schema": "node_modules/wrangler/config-schema.json",
 
   // Name that will appear in the Cloudflare dashboard
-  "name": "the-redwoods",
+  "name": "redwoods",
 
   // Tell Pages where your static build ends up
   "pages_build_output_dir": ".next",
