@@ -13,7 +13,7 @@ export default function Grove() {
         <li>AV setup for presentations (hidden when not in use)</li>
       </ul>
       <p>
-        Email <a href="mailto:events@redwoods.wine">events@redwoods.wine</a> or call (555) 987‑1234 to
+        Email <a href="mailto:events@redwoods.wine">events@redwoods.wine</a> or call (612) 293‑6392 to
         inquire.
       </p>
     </div>
