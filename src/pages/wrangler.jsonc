@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+
+  // Name that will appear in the Cloudflare dashboard
+  "name": "the-redwoods",
+
+  // Tell Pages where your static build ends up
+  "pages_build_output_dir": ".next",
+
+  // Always pin a date so future runtime changes don’t surprise you
+  "compatibility_date": "2025-06-10",
+
+  // Needed for most Node-style packages (Next, tailwind JIT, etc.)
+  "compatibility_flags": ["nodejs_compat"]
+
+  /* Add bindings here later — KV, D1, R2, etc.
+  "kv_namespaces": [
+    { "binding": "SESSIONS", "id": "xxxx" }
+  ]
+  */
+}
