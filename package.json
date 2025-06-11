@@ -4,7 +4,7 @@
   "scripts": {
     "start": "next start",
     "build": "next build",
-    "dev":   "wrangler dev"
+    "dev": "wrangler dev"
   },
   "dependencies": {
     "next": "latest",
@@ -12,6 +12,7 @@
     "react-dom": "latest"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.16",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.4.4"
