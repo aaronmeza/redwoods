@@ -5,7 +5,7 @@ export default function Layout({ title = "The Redwoods", children }) {
   return (
     <>
       <Head>
-        <title>{title} · The Redwoods Wine Lounge</title>
+        <title>{`${title} · The Redwoods Wine Lounge`}</title>
         <meta name="description" content="An intimate wine lounge inspired by Northern California's redwood groves." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
